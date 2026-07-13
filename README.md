@@ -22,7 +22,7 @@
 - 📊 Data Analysis • Data Mining • Data Engineering • ML Engineering
 - 🐍 Python Developer | ⚙️ C++ Developer
 - 📍 Islamabad, Pakistan
-- 📫 Reach me: **mandsdept@gmail.com**
+- 📫 Reach me: **haseebbutt12300@gmail.com**
 - 📈 Kaggle: [abdulhaseeb085](https://www.kaggle.com/abdulhaseeb085) | 🤖 Roboflow: [CV projects](https://app.roboflow.com/abduls-4uaow/agent)
 
 ---
