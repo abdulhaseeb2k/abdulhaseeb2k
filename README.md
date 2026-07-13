@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 💼 **Data Scientist @ National Aerospace Science & Technology Park (NASTP)** — 3+ years hands-on experience
-- 🎓 **MS in Data Science** — FAST-NUCES *(completed)* | **BS in Computer Science** — COMSATS
+- 🎓 **MS in Data Science** — FAST-NUCES | **BS in Computer Science** — COMSATS
 - 🧠 Working with **Deep Learning, Computer Vision & Advanced Analytics** to drive business insights
 - 🔬 **Research:** Computer Vision & **Autonomous Systems** 🚗 — exploring how they can revolutionize our world
 - 📊 Data Analysis • Data Mining • Data Engineering • ML Engineering
@@ -42,6 +42,8 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-00A6D6?style=for-the-badge&logo=python&logoColor=white)
 
 **Data Science & Analytics**
 
@@ -53,10 +55,14 @@
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
