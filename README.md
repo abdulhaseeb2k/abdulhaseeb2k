@@ -21,7 +21,7 @@
 - 🐍 Python Developer | ⚙️ C++ Developer
 - 📍 Islamabad, Pakistan
 - 📫 Reach me: **mandsdept@gmail.com**
-- 🌐 Portfolio: [Creative Corner](https://haseebbutt12300.wixsite.com/creativecorner)
+- 📈 Kaggle: [abdulhaseeb085](https://www.kaggle.com/abdulhaseeb085) | 🤖 Roboflow: [CV projects](https://app.roboflow.com/abduls-4uaow/agent)
 
 ---
 
@@ -101,9 +101,11 @@
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulhaseeb085/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdulhaseeb085)
+[![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)](https://app.roboflow.com/abduls-4uaow/agent)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandsdept@gmail.com)
 [![X](https://img.shields.io/badge/@Abdulhaseeb085-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Abdulhaseeb085)
-[![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haseebbutt12300.wixsite.com/creativecorner)
 
 ⭐ *"Let's explore the amazing world of data science together and uncover insights that can change the world!"* 🌍💡
 
