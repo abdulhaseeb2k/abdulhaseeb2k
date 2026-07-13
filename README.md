@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Abdul%20Haseeb&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision&descSize=18&descColor=7aa2f7&descAlignY=55" alt="header banner" />
+
 <div align="center">
 
 <!-- Animated typing header -->
@@ -83,6 +85,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhaseeb2k&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhaseeb2k&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" alt="Activity graph" />
+
 </div>
 
 ---
@@ -110,3 +114,5 @@
 ⭐ *"Let's explore the amazing world of data science together and uncover insights that can change the world!"* 🌍💡
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" alt="footer banner" />
