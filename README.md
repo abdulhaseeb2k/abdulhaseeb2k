@@ -109,7 +109,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdulhaseeb085)
 [![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)](https://app.roboflow.com/abduls-4uaow/agent)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandsdept@gmail.com)
-[![X](https://img.shields.io/badge/@Abdulhaseeb085-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Abdulhaseeb085)
+[![X](https://img.shields.io/badge/@Abdulhaseeb085-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/im_Abdulhaseeb)
 
 ⭐ *"Let's explore the amazing world of data science together and uncover insights that can change the world!"* 🌍💡
 
